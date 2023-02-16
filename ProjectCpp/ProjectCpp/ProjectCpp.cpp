@@ -33,8 +33,9 @@ int fact(int N) {
 
 int main() {
 	setlocale(LC_ALL, "ru");
-
-	cout << fact(7);
+	int N;
+	cin >> N;
+	cout << fact(N);
 
 	return 0;
 }
