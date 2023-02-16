@@ -1,0 +1,35 @@
+
+fc:S5276"Gimplicit conversion loses floating-point precision: 'double' to 'float'(ÑÎƒÜùÿÿÿÿ8¬Û²Òã0
+ac:S5276"Gimplicit conversion loses floating-point precision: 'double' to 'float'(ÚÓ›Å8­Û²Òã0
+fc:S5276"Gimplicit conversion loses floating-point precision: 'double' to 'float'(òñº’üÿÿÿÿ8­Û²Òã0
+ac:S5276$"Gimplicit conversion loses floating-point precision: 'double' to 'float'(ÛÆë8­Û²Òã0
+gc:S5276("Nimplicit conversion turns floating-point number into integer: 'float' to 'int'(ğÙèD8­Û²Òã0
+gc:S5276("Nimplicit conversion turns floating-point number into integer: 'float' to 'int'(ğÙèD8­Û²Òã0
+gc:S5276("Nimplicit conversion turns floating-point number into integer: 'float' to 'int'(ğÙèD8­Û²Òã0
+mc:S5276)"Nimplicit conversion turns floating-point number into integer: 'float' to 'int'(úòÉıÿÿÿÿ8®Û²Òã0
+mc:S5276)"Nimplicit conversion turns floating-point number into integer: 'float' to 'int'(úòÉıÿÿÿÿ8®Û²Òã0
+mc:S5276)"Nimplicit conversion turns floating-point number into integer: 'float' to 'int'(úòÉıÿÿÿÿ8®Û²Òã0
+[c:S5276*"<implicit conversion from 'int' to 'float' may lose precision(ãÅÁ¾üÿÿÿÿ8®Û²Òã0
+mc:S5276*"Nimplicit conversion turns floating-point number into integer: 'float' to 'int'(ãÅÁ¾üÿÿÿÿ8®Û²Òã0
+mc:S5276*"Nimplicit conversion turns floating-point number into integer: 'float' to 'int'(ãÅÁ¾üÿÿÿÿ8®Û²Òã0
+mc:S5276*"Nimplicit conversion turns floating-point number into integer: 'float' to 'int'(ãÅÁ¾üÿÿÿÿ8®Û²Òã0
+[c:S5276."<implicit conversion from 'int' to 'float' may lose precision(¶¾½Ìúÿÿÿÿ8¯Û²Òã0
+Vc:S5276/"<implicit conversion from 'int' to 'float' may lose precision(ÇşÃğ8¯Û²Òã0
+[c:S52765"<implicit conversion loses integer precision: 'int' to 'char'(ıúÇóúÿÿÿÿ8¯Û²Òã0
+ˆc:S5276n"iimplicit conversion when assigning computation result loses floating-point precision: 'double' to 'float'(€ê ãüÿÿÿÿ8¯Û²Òã0
+ƒc:S5276o"iimplicit conversion when assigning computation result loses floating-point precision: 'double' to 'float'( †àª8¯Û²Òã0
+ˆc:S5276p"iimplicit conversion when assigning computation result loses floating-point precision: 'double' to 'float'(½ÿ ÿÿÿÿÿ8¯Û²Òã0
+9c:S1763s"'return' will never be executed(”·³›8¯Û²Òã0
+Oc:S1659"0Define each identifier in a dedicated statement.(†Íèøÿÿÿÿ8µÛ²Òã0
+Oc:S1659	"0Define each identifier in a dedicated statement.(«¿´Åşÿÿÿÿ8µÛ²Òã0
+Jc:S1659"0Define each identifier in a dedicated statement.(Øƒö°8µÛ²Òã0
+Oc:S1659"0Define each identifier in a dedicated statement.(´ğÇòıÿÿÿÿ8µÛ²Òã0
+Pc:S10663"1Merge this "if" statement with the enclosing one.(û¢Êùÿÿÿÿ8·Û²Òã0
+Bc:S2193B"#Do not use a counter of type float.(ØÃôáøÿÿÿÿ8¹Û²Òã0
+Bc:S2193P"#Do not use a counter of type float.(ØÃôáøÿÿÿÿ8ºÛ²Òã0
+Bc:S2193^"#Do not use a counter of type float.(ØÃôáøÿÿÿÿ8ºÛ²Òã0
+c:S1911q"bRemove use of this obsolete "usleep" function. Replace it by a call to "nanosleep" or "setitimer".(›Õ´Ëøÿÿÿÿ8ºÛ²Òã0
+=c:S2193C"#Do not use a counter of type float.(îæˆò8»Û²Òã0
+=c:S2193Q"#Do not use a counter of type float.(îæˆò8¼Û²Òã0
+=c:S2193_"#Do not use a counter of type float.(îæˆò8¾Û²Òã0
+Sc:S3519="4Memory set function overflows the destination buffer(¬åÏùÿÿÿÿ8òë²Òã0

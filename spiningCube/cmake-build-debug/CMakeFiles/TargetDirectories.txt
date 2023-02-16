@@ -1,0 +1,3 @@
+D:/C++/PROJECTS/spiningCube/cmake-build-debug/CMakeFiles/spiningCube.dir
+D:/C++/PROJECTS/spiningCube/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/PROJECTS/spiningCube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
