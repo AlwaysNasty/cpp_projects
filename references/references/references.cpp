@@ -1,5 +1,8 @@
-﻿//#include <iostream>
-#include <bits-stdc++.h>
+﻿#include <iostream>
+//#include <bits-stdc++.h>
+#include <vector>
+#include <cstdlib>
+
 using namespace std;
 
 void Swap(int *x1, int *x2) {
@@ -26,7 +29,6 @@ void Func(int& a, int& b, int& c) {
 	c -= 100;
 }
 
-
 int main() {
 	int a = 5;
 	int *pa = &a;
@@ -41,8 +43,7 @@ int main() {
 	int *pb = &aRef;
 	int &bRef = *pb;
 	cout << *pb << bRef << endl;
-
-
+	
 	int x, y;
 	x = 10;
 	y = 20;
@@ -50,7 +51,6 @@ int main() {
 	cout << x << y << endl;
 	Swap(&x,&y);
 	cout << x << y << endl << endl;
-
 
 	int value = 5;
 	cout << value << endl << endl;
