@@ -1,5 +1,4 @@
-﻿#include <bits-stdc++.h>
-#include <algorithm>
+﻿#include <algorithm>
 #include <iostream>
 #include <memory.h>
 #include <iterator>
