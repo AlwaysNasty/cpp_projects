@@ -32,16 +32,5 @@ int main()
         cout << arr[i];
     }
     
-    cout << endl;
-
-    vector<int> mass{ 9,3,6,1,4,2,5,8,7,0 };
-    sort(mass.begin(), mass.end());
-
-    cout << mass.size();
-
-    for (int j = 0; j<mass.size(); j++)
-    {
-        cout << mass[j];
-    }
 
 }
