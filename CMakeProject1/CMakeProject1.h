@@ -11,5 +11,6 @@
 #include <bits/stdc++.h>
 #include <map>
 #include <iomanip>
+#include <unordered_map>
 
 // TODO: установите здесь ссылки на дополнительные заголовки, требующиеся для программы.
