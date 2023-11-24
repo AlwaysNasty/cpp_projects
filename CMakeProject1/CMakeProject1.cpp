@@ -1,43 +1,50 @@
 ﻿// CMakeProject1.cpp: определяет точку входа для приложения.
 #include "CMakeProject1.h"
 
-//void Foo(int* pa, int* pb, int* pc) {
-//	std::vector<int> v;
-//
-//	for (int i = *pa; i < (*pb) + 1; i += (*pc))
-//		v.push_back(i);
-//
-//	for (int i = 0; i < v.size(); i++)
-//		std::cout << v[i] << " ";
-//
-//	std::cout << std::endl;
-//}
+
+void Foo1(int a) {
+	a = 1;
+}
+
+void Foo2(int& a) {
+	a = 2;
+}
+
+void Foo3(int* a) {
+	*a = 3;
+}
+
+void Bar(int& a, int& b, int& c) {
+	a = 10;
+	b *= 2;
+	c -= 100;
+}
 
 void main()
 {
 	setlocale(LC_ALL, "Russian");
-	int x = 10;
-	int* px = &x;
 
-	std::cout << x << " " //output variable
-		<< px << " "//output pointer to adress of x 
-		<< *px << std::endl;//output unnamed pointer to adress of x
-
-	*px = 20;
-
-	std::cout << x << " " //output variable
-		<< px << " "//output pointer to adress of x 
-		<< *px << std::endl;//output unnamed pointer to adress of x
-
-	x = 40;
-
-	std::cout << x << " " //output variable
-		<< px << " "//output pointer to adress of x 
-		<< *px << std::endl;//output unnamed pointer to adress of x
+	int value = 5;
+	std::cout << "value is: " << std::endl;
 	
-	//int a=0, b=0, c=0;
-	//std::cin >> a >> b >> c;
-	//Foo(&a, &b, &c);
+
+	Foo1(value);
+	std::cout << value << std::endl;
+
+	Foo2(value);
+	std::cout << value << std::endl;
+
+	Foo3(&value);
+	std::cout << value << std::endl;
+
+	int a = 0, b = 4, c = 200;
+
+	std::cout << a << " " << b << " " << c << std::endl;
+
+	Bar(a, b, c);
+
+	std::cout << a << " " << b << " " << c << std::endl;
+
 
 	//int g = 110;
 	//int& gRef = g;
