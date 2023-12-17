@@ -1,6 +1,7 @@
 #include<iostream>
 #include <ctime>
 #include <cmath>
+#include <bits/stdc++.h>
 
 
 void fillArray(int* const arr, const int size)

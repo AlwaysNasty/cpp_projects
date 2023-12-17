@@ -1,21 +1,20 @@
 #include <iostream>
 #include <string>
-#include <algorithm>
 
+using namespace std;
 
 int main() {
-    std::string a;
-    std::getline(std::cin, a);
+    string s1;
+    getline(cin, s1);
 
-    for (int i = 1; i < a.size(); ++i) {
-        if ((a[i] == 'o') && (a[i - 1] == 'n')) {
-            std::swap(a[i-1], a[i]);
+    for (int i = 0; i < s1.size(); i++) {
+        if ((s1[i] == 'o') && (s1[i - 1] == 'n')) {
+            char temp = s1[i - 1];
+            s1[i - 1] = s1[i];
+            s1[i] = temp;
         }
     }
 
-    for (auto el : a) {
-        std::cout << el;
-    }
-
-    return 0;
+    for (char elem : s1)
+        cout << elem;   
 }
