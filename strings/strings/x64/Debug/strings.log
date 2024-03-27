@@ -1,0 +1,12 @@
+﻿  strings.cpp
+D:\C++\cpp_projects\strings\strings\strings.cpp(25,19): warning C4305: аргумент: усечение из "int" в "const _Elem"
+D:\C++\cpp_projects\strings\strings\strings.cpp(25,19): warning C4305:         with
+D:\C++\cpp_projects\strings\strings\strings.cpp(25,19): warning C4305:         [
+D:\C++\cpp_projects\strings\strings\strings.cpp(25,19): warning C4305:             _Elem=char
+D:\C++\cpp_projects\strings\strings\strings.cpp(25,19): warning C4305:         ]
+D:\C++\cpp_projects\strings\strings\strings.cpp(25,19): warning C4309: аргумент: усечение константного значения
+D:\C++\cpp_projects\strings\strings\strings.cpp(35,39): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\cpp_projects\strings\strings\strings.cpp(65,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  strings.vcxproj -> D:\C++\cpp_projects\strings\x64\Debug\strings.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

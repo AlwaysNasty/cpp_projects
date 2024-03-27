@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/C++/cpp_projects/structures_learning/out/build/x64-debug/structures_learning/CMakeFiles/structures_learning.dir/embed.manifest"

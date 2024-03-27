@@ -1,7 +1,6 @@
 #include<iostream>
 #include <ctime>
 #include <cmath>
-#include <bits/stdc++.h>
 
 
 void fillArray(int* const arr, const int size)
@@ -52,7 +51,8 @@ void pop_back(int*& arr, int& size)
 
 void main() 
 {
-	int size = 5;
+	int size;
+	std::cin >> size;
 	int* arr = new int[size];
 
 	fillArray(arr, size);

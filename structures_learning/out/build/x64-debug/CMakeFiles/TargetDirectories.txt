@@ -1,0 +1,5 @@
+D:/C++/cpp_projects/structures_learning/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/C++/cpp_projects/structures_learning/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/C++/cpp_projects/structures_learning/out/build/x64-debug/structures_learning/CMakeFiles/structures_learning.dir
+D:/C++/cpp_projects/structures_learning/out/build/x64-debug/structures_learning/CMakeFiles/edit_cache.dir
+D:/C++/cpp_projects/structures_learning/out/build/x64-debug/structures_learning/CMakeFiles/rebuild_cache.dir
